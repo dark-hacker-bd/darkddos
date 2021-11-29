@@ -24,3 +24,5 @@ pres inter>
 
 
 Example $      python2 dark-ddos.py https://xxx.com
+
+💛💖💚💖💜💖�💙💕💚💤💙💕💙💕💙
