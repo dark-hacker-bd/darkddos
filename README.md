@@ -18,7 +18,7 @@ cd darkddos
 
 RUN THISH TOOL💀💀💀💀💀💀💀💀》》》》》》
 
-python2 dark-ddos.py (your website name)
+python2 dark-ddos.py (your target website name)
 
 pres inter>
 
